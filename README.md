@@ -105,3 +105,5 @@ By the end of the course, students will be able to:
 - Demonstrate foundational skills for later systems and software courses
 
 
+
+Ran ./bin/hello successfully in Codespaces.
